@@ -5,6 +5,8 @@ layout: default
 
 # Workshop on AI and Theorem Provers in Mathematics
 
+This meeting will explore with leading experts some of the recent developments related to the use of AI and theorem provers in mathematics as well as the perspectives for such future use.
+
 - Venue: Online 
 - Date:  8. - 10. April 2026
 - Registration: [Online Form](https://forms.office.com/e/c7gth3Rb6Q)
@@ -20,6 +22,10 @@ layout: default
 - [Lawrence Paulson](https://www.cl.cam.ac.uk/~lp15/) (University Cambridge)
 - [Chelsea Edmonds](https://cledmonds.github.io/) (University of Western Australia)
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/en/) (University Paris Saclay)
+
+## Programm Schedule 
+
+To be announced.
 
 ## Organisers
 
