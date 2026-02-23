@@ -23,7 +23,7 @@ This meeting will explore with leading experts some of the recent developments r
 - [Chelsea Edmonds](https://cledmonds.github.io/) (University of Western Australia)
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/en/) (University Paris Saclay)
 
-## Programm Schedule 
+## Programme Schedule 
 
 To be announced.
 
