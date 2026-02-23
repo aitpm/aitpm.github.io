@@ -7,6 +7,7 @@ layout: default
 
 This meeting will explore with leading experts some of the recent developments related to the use of AI and theorem provers in mathematics as well as the perspectives for such future use.
 
+- Attendance is **free**.
 - Venue: Online 
 - Date:  8. - 10. April 2026
 - Registration: [Online Form](https://forms.office.com/e/c7gth3Rb6Q)
