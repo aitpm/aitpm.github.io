@@ -24,9 +24,27 @@ This meeting will explore with leading experts some of the recent developments r
 - [Chelsea Edmonds](https://cledmonds.github.io/) (University of Western Australia)
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/en/) (University Paris Saclay)
 
-## Programme Schedule 
+## Programme Schedule  (to be confirmed)
 
-To be announced.
+The preliminary schedule of the workshop is:
+
+* April 8th 2026 
+  * 08:00-09:00 Kevin Buzzard
+  * 09:15-10:15 Paola Iannone
+  * 10:45-11:45 Lawrence Paulson
+  * 12:00-13:00 Discussion session (around the themes from the above talks)
+* April 9th 2026
+  * 08:00-09:00 Chelsea Edmond (Australia)
+  * 09:15-10:15 Yang Hui Hee (will be in China)
+  * 10:45-11:45 Shinichi Mochizuki (Japan)
+  * 12:00-13:00 Discussion session (around the themes  from the above talks)
+* April 10th 2026
+  * 15:00-16:00 Patrick Massot
+  * 16:15-17:15 Leonardo De Moura
+  * 17:45-18:45 Natarajan Shankar ?
+  * 19:00-20:00 Discussion session and closure
+
+All times are BST (i.e., London, observing daylight saving time).
 
 ## Organisers
 
