@@ -32,17 +32,17 @@ The preliminary schedule of the workshop is:
   * 08:00-09:00 Kevin Buzzard
   * 09:15-10:15 Paola Iannone
   * 10:45-11:45 Lawrence Paulson
-  * 12:00-13:00 Discussion session (around the themes from the above talks)
+  * 12:00-13:00 Discussion/panel session
 * April 9th 2026
-  * 08:00-09:00 Chelsea Edmond (Australia)
-  * 09:15-10:15 Yang Hui Hee (will be in China)
-  * 10:45-11:45 Shinichi Mochizuki (Japan)
-  * 12:00-13:00 Discussion session (around the themes  from the above talks)
+  * 08:00-09:00 Chelsea Edmond
+  * 09:15-10:15 Yang Hui Heen 
+  * 10:45-11:45 Shinichi Mochizuki 
+  * 12:00-13:00 Discussion session
 * April 10th 2026
   * 15:00-16:00 Patrick Massot
   * 16:15-17:15 Leonardo De Moura
   * 17:45-18:45 Natarajan Shankar ?
-  * 19:00-20:00 Discussion session and closure
+  * 19:00-20:00 Discussion/panel session and closure
 
 All times are BST (i.e., London, observing daylight saving time).
 
