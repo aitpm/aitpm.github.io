@@ -41,7 +41,7 @@ The preliminary schedule of the workshop is:
 * April 10th 2026
   * 15:00-16:00 Patrick Massot
   * 16:15-17:15 Leonardo De Moura
-  * 17:45-18:45 Natarajan Shankar ?
+  * 17:45-18:45 Natarajan Shankar (tbc)
   * 19:00-20:00 Discussion/panel session and closure
 
 All times are BST (i.e., London, observing daylight saving time).
