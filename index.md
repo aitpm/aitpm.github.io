@@ -12,6 +12,8 @@ This meeting will explore with leading experts some of the recent developments r
 - Date:  8. - 10. April 2026
 - Registration: [Online Form](https://forms.office.com/e/c7gth3Rb6Q)
 
+Given consent by speakers, talks will be recorded and made public after the workshop. We do not plan to record the panel session, which are planned to be highly interactive. 
+
 ## Speakers
 
 - [Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (Imperial College)  
