@@ -25,7 +25,7 @@ Given consent by speakers, talks will be recorded and made public after the work
 - [Chelsea Edmonds](https://cledmonds.github.io/) (University of Western Australia)
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/en/) (University Paris Saclay)
 
-## Programme Schedule  (to be confirmed)
+## Programme Schedule
 
 The preliminary schedule of the workshop is:
 
