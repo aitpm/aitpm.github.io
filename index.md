@@ -48,7 +48,7 @@ The preliminary schedule of the workshop is:
 All times are BST (i.e., London, observing daylight saving time).
 
 
-## Detailed Abstracts
+## Detailed Programme 
 
 ### April 8th 2026
 
