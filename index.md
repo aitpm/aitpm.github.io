@@ -17,7 +17,6 @@ Given consent by speakers, talks will be recorded and made public after the work
 ## Speakers
 
 - [Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (Imperial College)  
-- [Minhyong Kim](https://www.minhyongkim.net/) (International Centre for Mathematical Sciences, Edinburgh)
 - [Yang-Hui He](https://lims.ac.uk/yang-hui-he/) (London Institute for Mathematical Sciences)
 - [Paola Iannone](https://www.research.ed.ac.uk/en/persons/paola-iannone/) (University of Edinburgh)
 - [Shinichi Mochizuki](https://www.kurims.kyoto-u.ac.jp/en/list/MOCHIZUKI,%20Shinichi.html) (Research Institute for Mathematical Sciences Kyoto)
@@ -31,22 +30,42 @@ Given consent by speakers, talks will be recorded and made public after the work
 The preliminary schedule of the workshop is:
 
 * April 8th 2026 
-  * 08:00-09:00 Kevin Buzzard
-  * 09:15-10:15 Paola Iannone
-  * 10:45-11:45 Lawrence Paulson
+  * 08:00-09:00 Kevin Buzzard: _What goes into Formalizing Fermat?_
+  * 09:15-10:15 Paola Iannone: _Paola Iannone_
+  * 10:45-11:45 Lawrence Paulson: _Addressing The Credibility Problem In Auto-Formalisation_
   * 12:00-13:00 Discussion/panel session
 * April 9th 2026
-  * 08:00-09:00 Chelsea Edmond
-  * 09:15-10:15 Yang Hui Heen 
-  * 10:45-11:45 Shinichi Mochizuki 
+  * 08:00-09:00 Chelsea Edmond: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
+  * 09:15-10:15 Yang Hui He 
+  * 10:45-11:45 Shinichi Mochizuki: _On the Formalization of IUT: a preliminary progress report_
   * 12:00-13:00 Discussion session
 * April 10th 2026
-  * 15:00-16:00 Patrick Massot
+  * 15:00-16:00 Patrick Massot: _Teaching mathematics using Verbose Lean_
   * 16:15-17:15 Leonardo De Moura
-  * 17:45-18:45 Natarajan Shankar (tbc)
+  * 17:45-18:45 Natarajan Shankar
   * 19:00-20:00 Discussion/panel session and closure
 
 All times are BST (i.e., London, observing daylight saving time).
+
+
+## Detailed Abstracts
+
+### Chelsea Edmond: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
+
+Formalised maths is often viewed primarily as a tool to verify proof correctness, yet focusing solely on this motivation overlooks other significant benefits - such as the potential to uncover new mathematical insights. In this context, we must consider not just if a proof verifies, but how we approach the formalisation process itself. This talk will explore this challenge by viewing the formalisation process from a software engineering perspective. Using the Isabelle/HOL proof assistant, we'll first explore how core engineering principles such as modularity and extensibility can be applied to model complex mathematical hierarchies and proof patterns. I'll highlight the benefits this approach offers through some examples in combinatorics, while also introducing some key Isabelle features such as locales which facilitate this. I'll conclude by offering some perspectives on why these engineering principles are more relevant than ever as generative AI is integrated into proof assistants, in order to fully leverage all the benefits of formalised mathematics.
+
+
+### Patrick Massot: _Teaching mathematics using Verbose Lean_
+
+Verbose Lean is a library for the Lean proof assistant whose goal is to help teaching first year undergrad students how to read and write mathematical proofs. It shares a lot of goals and principles with the Coq-Waterproof project. In this talk I will show what it looks like and emphasize the flexibility it brings to teachers. This flexibility allows to tune the amount of help given to students and the level of precision required from them.
+
+### Paola Iannone: _Paola Iannone_
+
+ In the past few years Lean, and other interactive theorem provers, have entered the university classrooms. Their use is meant both to prepare the mathematicians of the future and to support the transition to the rigour of university mathematics. Research in mathematics education is investigating the impact on aspects of students’ learning of this new digital technology. In this talk I will map the development of this research presenting its main results so far  and  some directions for future research.  
+
+### Kevin Buzzard: _What goes into Formalizing Fermat?_
+
+I will talk about my ongoing attempt to teach Lean a proof of Fermat's Last Theorem. I'll give a broad talk including an update on where we are, and a discussion on ideas which we've tried and issues which have arisen.
 
 ## Organisers
 
