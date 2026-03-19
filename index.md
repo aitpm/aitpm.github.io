@@ -31,8 +31,8 @@ The preliminary schedule of the workshop is:
 
 * April 8th 2026 
   * 08:00-09:00 Kevin Buzzard: _What goes into Formalizing Fermat?_
-  * 09:15-10:15 Paola Iannone: _Paola Iannone_
-  * 10:45-11:45 Lawrence Paulson: _Addressing The Credibility Problem In Auto-Formalisation_
+  * 09:15-10:15 Paola Iannone: _Teaching with Lean for supporting the transition to university mathematics - current research and future trends_
+  * 10:45-11:45 Lawrence Paulson: _AI and Isabelle: experiences and perspectives_
   * 12:00-13:00 Discussion/panel session
 * April 9th 2026
   * 08:00-09:00 Chelsea Edmond: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
@@ -59,7 +59,7 @@ Formalised maths is often viewed primarily as a tool to verify proof correctness
 
 Verbose Lean is a library for the Lean proof assistant whose goal is to help teaching first year undergrad students how to read and write mathematical proofs. It shares a lot of goals and principles with the Coq-Waterproof project. In this talk I will show what it looks like and emphasize the flexibility it brings to teachers. This flexibility allows to tune the amount of help given to students and the level of precision required from them.
 
-### Paola Iannone: _Paola Iannone_
+### Paola Iannone: _Teaching with Lean for supporting the transition to university mathematics - current research and future trends_
 
  In the past few years Lean, and other interactive theorem provers, have entered the university classrooms. Their use is meant both to prepare the mathematicians of the future and to support the transition to the rigour of university mathematics. Research in mathematics education is investigating the impact on aspects of students’ learning of this new digital technology. In this talk I will map the development of this research presenting its main results so far  and  some directions for future research.  
 
