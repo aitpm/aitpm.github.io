@@ -50,22 +50,32 @@ All times are BST (i.e., London, observing daylight saving time).
 
 ## Detailed Abstracts
 
-### Chelsea Edmond: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
+### April 8th 2026
+
+#### Kevin Buzzard: _What goes into Formalizing Fermat?_
+
+I will talk about my ongoing attempt to teach Lean a proof of Fermat's Last Theorem. I'll give a broad talk including an update on where we are, and a discussion on ideas which we've tried and issues which have arisen.
+
+#### Paola Iannone: _Teaching with Lean for supporting the transition to university mathematics - current research and future trends_
+
+ In the past few years Lean, and other interactive theorem provers, have entered the university classrooms. Their use is meant both to prepare the mathematicians of the future and to support the transition to the rigour of university mathematics. Research in mathematics education is investigating the impact on aspects of students’ learning of this new digital technology. In this talk I will map the development of this research presenting its main results so far  and  some directions for future research.  
+#### Lawrence Paulson: _AI and Isabelle: experiences and perspectives_
+
+Recent weeks have seen dramatic developments in AI and theorem proving. Josef Urban has auto-formalised an entire topology textbook, three times: into Megalodon, HOL Light and Isabelle/HOL. Meanwhile, Hanno Becker and Dominic Mulligan of Amazon Web Services have released a suite of tools aimed at facilitating interoperability between Isabelle and LLMs. We can now work interactively, with an LLM at our elbow, or throw a massive job at an LLM and go away for a week. The author will report some experiences and then ask, where is this taking us?
+
+### April 9th 2026
+
+#### Chelsea Edmond: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
 
 Formalised maths is often viewed primarily as a tool to verify proof correctness, yet focusing solely on this motivation overlooks other significant benefits - such as the potential to uncover new mathematical insights. In this context, we must consider not just if a proof verifies, but how we approach the formalisation process itself. This talk will explore this challenge by viewing the formalisation process from a software engineering perspective. Using the Isabelle/HOL proof assistant, we'll first explore how core engineering principles such as modularity and extensibility can be applied to model complex mathematical hierarchies and proof patterns. I'll highlight the benefits this approach offers through some examples in combinatorics, while also introducing some key Isabelle features such as locales which facilitate this. I'll conclude by offering some perspectives on why these engineering principles are more relevant than ever as generative AI is integrated into proof assistants, in order to fully leverage all the benefits of formalised mathematics.
 
+### April 10th 2026
 
-### Patrick Massot: _Teaching mathematics using Verbose Lean_
+#### Patrick Massot: _Teaching mathematics using Verbose Lean_
 
 Verbose Lean is a library for the Lean proof assistant whose goal is to help teaching first year undergrad students how to read and write mathematical proofs. It shares a lot of goals and principles with the Coq-Waterproof project. In this talk I will show what it looks like and emphasize the flexibility it brings to teachers. This flexibility allows to tune the amount of help given to students and the level of precision required from them.
 
-### Paola Iannone: _Teaching with Lean for supporting the transition to university mathematics - current research and future trends_
 
- In the past few years Lean, and other interactive theorem provers, have entered the university classrooms. Their use is meant both to prepare the mathematicians of the future and to support the transition to the rigour of university mathematics. Research in mathematics education is investigating the impact on aspects of students’ learning of this new digital technology. In this talk I will map the development of this research presenting its main results so far  and  some directions for future research.  
-
-### Kevin Buzzard: _What goes into Formalizing Fermat?_
-
-I will talk about my ongoing attempt to teach Lean a proof of Fermat's Last Theorem. I'll give a broad talk including an update on where we are, and a discussion on ideas which we've tried and issues which have arisen.
 
 ## Organisers
 
