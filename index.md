@@ -35,7 +35,7 @@ The preliminary schedule of the workshop is:
   * 10:45-11:45 Lawrence Paulson: _AI and Isabelle: experiences and perspectives_
   * 12:00-13:00 Discussion/panel session
 * April 9th 2026
-  * 08:00-09:00 Chelsea Edmond: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
+  * 08:00-09:00 Chelsea Edmonds: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
   * 09:15-10:15 Yang Hui He 
   * 10:45-11:45 Shinichi Mochizuki: _On the Formalization of IUT: a preliminary progress report_
   * 12:00-13:00 Discussion session
@@ -65,7 +65,7 @@ Recent weeks have seen dramatic developments in AI and theorem proving. Josef Ur
 
 ### April 9th 2026
 
-#### Chelsea Edmond: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
+#### Chelsea Edmonds: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
 
 Formalised maths is often viewed primarily as a tool to verify proof correctness, yet focusing solely on this motivation overlooks other significant benefits - such as the potential to uncover new mathematical insights. In this context, we must consider not just if a proof verifies, but how we approach the formalisation process itself. This talk will explore this challenge by viewing the formalisation process from a software engineering perspective. Using the Isabelle/HOL proof assistant, we'll first explore how core engineering principles such as modularity and extensibility can be applied to model complex mathematical hierarchies and proof patterns. I'll highlight the benefits this approach offers through some examples in combinatorics, while also introducing some key Isabelle features such as locales which facilitate this. I'll conclude by offering some perspectives on why these engineering principles are more relevant than ever as generative AI is integrated into proof assistants, in order to fully leverage all the benefits of formalised mathematics.
   
