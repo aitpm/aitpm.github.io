@@ -36,7 +36,7 @@ The preliminary schedule of the workshop is:
   * 12:00-13:00 Discussion/panel session
 * April 9th 2026
   * 08:00-09:00 Chelsea Edmonds: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
-  * 09:15-10:15 Yang Hui He 
+  * 09:15-10:15 Yang-Hui He 
   * 10:45-11:45 Shinichi Mochizuki: _On the Formalization of IUT: a preliminary progress report_
   * 12:00-13:00 Discussion session
 * April 10th 2026
