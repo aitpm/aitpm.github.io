@@ -16,14 +16,15 @@ Given consent by speakers, talks will be recorded and made public after the work
 
 ## Speakers
 
-- [Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (Imperial College)  
+- [Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (Imperial College)
+- [Chelsea Edmonds](https://cledmonds.github.io/) (University of Western Australia) 
 - [Yang-Hui He](https://lims.ac.uk/yang-hui-he/) (London Institute for Mathematical Sciences)
 - [Paola Iannone](https://www.research.ed.ac.uk/en/persons/paola-iannone/) (University of Edinburgh)
+- [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/en/) (University Paris Saclay)
 - [Shinichi Mochizuki](https://www.kurims.kyoto-u.ac.jp/en/list/MOCHIZUKI,%20Shinichi.html) (Research Institute for Mathematical Sciences Kyoto)
 - [Leonardo De Moura](https://leodemoura.github.io/) (Amazon Web Services)
 - [Lawrence Paulson](https://www.cl.cam.ac.uk/~lp15/) (University Cambridge)
-- [Chelsea Edmonds](https://cledmonds.github.io/) (University of Western Australia)
-- [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/en/) (University Paris Saclay)
+- [Natarajan Shankar](https://www.csl.sri.com/~shankar/) (SRI International)
 
 ## Programme Schedule
 
@@ -42,7 +43,7 @@ The preliminary schedule of the workshop is:
 * April 10th 2026
   * 15:00-16:00 Patrick Massot: _Teaching mathematics using Verbose Lean_
   * 16:15-17:15 Leonardo De Moura
-  * 17:45-18:45 Natarajan Shankar
+  * 17:45-18:45 Natarajan Shankar _Beyond QED: AI, Theorem Proving, and the Quest for Beautiful Proofs_
   * 19:00-20:00 Discussion/panel session and closure
 
 All times are BST (i.e., London, observing daylight saving time).
@@ -79,7 +80,13 @@ In this talk, we survey preliminary work conducted by my research group at RIMS,
 
 Verbose Lean is a library for the Lean proof assistant whose goal is to help teaching first year undergrad students how to read and write mathematical proofs. It shares a lot of goals and principles with the Coq-Waterproof project. In this talk I will show what it looks like and emphasize the flexibility it brings to teachers. This flexibility allows to tune the amount of help given to students and the level of precision required from them.
 
+#### Natarajan Shankar _Beyond QED: AI, Theorem Proving, and the Quest for Beautiful Proofs_
 
+The dramatic evolution of generative AI, fuelled by the convergence of
+data and compute, opens up new opportunities for synergy between AI and Theorem Proving.
+The talk addresses the following questions: Can we leverage this technology to go beyond QED
+to scale the abilities of humans at all skill levels to understand, create, and use beautiful
+mathematics?
 
 ## Organisers
 
