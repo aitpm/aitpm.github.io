@@ -91,7 +91,7 @@ Verbose Lean is a library for the Lean proof assistant whose goal is to help tea
 
 The dramatic evolution of generative AI, fuelled by the convergence of
 data and compute, opens up new opportunities for synergy between AI and Theorem Proving.
-The talk addresses the following questions: Can we leverage this technology to go beyond QED
+The talk addresses the following question: Can we leverage this technology to go beyond QED
 to scale the abilities of humans at all skill levels to understand, create, and use beautiful
 mathematics?
 
