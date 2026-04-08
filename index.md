@@ -43,7 +43,7 @@ The schedule (all times are BST, i.e., Europe/London) of the workshop is:
   * 12:00-13:00 Discussion session
 * April 10th 2026
   * 15:00-16:00 Patrick Massot: _Teaching mathematics using Verbose Lean_
-  * 16:15-17:15 Leonardo De Moura
+  * 16:15-17:15 Leonardo De Moura: _Lean: How AI and Proof Automation Are Changing Mathematics_
   * 17:45-18:45 Natarajan Shankar _Beyond QED: AI, Theorem Proving, and the Quest for Beautiful Proofs_
   * 19:00-20:00 Discussion/panel session and closure
 
@@ -87,6 +87,12 @@ In this talk, we survey preliminary work conducted by my research group at RIMS,
 #### Patrick Massot: _Teaching mathematics using Verbose Lean_
 
 Verbose Lean is a library for the Lean proof assistant whose goal is to help teaching first year undergrad students how to read and write mathematical proofs. It shares a lot of goals and principles with the Coq-Waterproof project. In this talk I will show what it looks like and emphasize the flexibility it brings to teachers. This flexibility allows to tune the amount of help given to students and the level of precision required from them.
+
+#### Leonardo De Moura: _Lean: How AI and Proof Automation Are Changing Mathematics_
+
+Lean is an open-source theorem prover and programming language based on dependent type theory, implemented in Lean itself, including its proof automation, parser, compiler, and tooling. No matter how users extend the system, every proof is checked by a small trusted kernel. Its mathematical library, Mathlib, contains over 200,000 formalized theorems contributed by more than 750 contributors.
+
+In this talk, I will present Lean and show how AI and proof automation are changing how mathematicians work. I will discuss how formalization has moved from a niche activity to a practical tool adopted by leading mathematicians, how AI systems are now generating formal proofs at scale, and how better proof automation makes AI provers more powerful. I will also discuss why machine-checked proofs create a new kind of collaboration between humans and AI, and why readable formal specifications remain the foundation of trust even when proofs are produced by machines.
 
 #### Natarajan Shankar _Beyond QED: AI, Theorem Proving, and the Quest for Beautiful Proofs_
 
