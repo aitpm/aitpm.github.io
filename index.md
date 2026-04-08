@@ -29,7 +29,7 @@ Given consent by speakers, talks will be recorded and made public after the work
 
 ## Programme Schedule
 
-The preliminary schedule of the workshop is:
+The schedule (all times are BST, i.e., Europe/London) of the workshop is:
 
 * April 8th 2026 
   * 08:00-09:00 Kevin Buzzard: _What goes into Formalizing Fermat?_
