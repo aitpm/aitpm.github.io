@@ -37,7 +37,7 @@ The schedule (all times are BST, i.e., Europe/London) of the workshop is:
   * 10:45-11:45 Lawrence Paulson: [_AI and Isabelle: experiences and perspectives_](./slides/Paulson.pdf)
   * 12:00-13:00 Discussion/panel session
 * April 9th 2026
-  * 08:00-09:00 Chelsea Edmonds: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
+  * 08:00-09:00 Chelsea Edmonds: [_A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_](./slides/Edmonds.pdf)
   * 09:15-10:15 Yang-Hui He: [_The AI Mathematician_](./slides/He.pdf)
   * 10:45-11:45 Shinichi Mochizuki: [_On the Formalization of IUT: a preliminary progress report_](./slides/Mochizuki.pdf)
   * 12:00-13:00 Discussion session
