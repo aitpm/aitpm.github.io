@@ -32,7 +32,7 @@ Given consent by speakers, talks will be recorded and made public after the work
 The schedule (all times are BST, i.e., Europe/London) of the workshop is:
 
 * April 8th 2026 
-  * 08:00-09:00 Kevin Buzzard: _What goes into Formalizing Fermat?_
+  * 08:00-09:00 Kevin Buzzard: [_What goes into Formalizing Fermat?_](./slides/Buzzard.pdf)
   * 09:15-10:15 Paola Iannone: [_Teaching with Lean for supporting the transition to university mathematics - current research and future trends_](./slides/Ianonne.pdf)
   * 10:45-11:45 Lawrence Paulson: _AI and Isabelle: experiences and perspectives_
   * 12:00-13:00 Discussion/panel session
