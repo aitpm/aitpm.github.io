@@ -39,7 +39,7 @@ The schedule (all times are BST, i.e., Europe/London) of the workshop is:
 * April 9th 2026
   * 08:00-09:00 Chelsea Edmonds: _A Proof Engineering Perspective on Formalising Combinatorics in Isabelle/HOL_
   * 09:15-10:15 Yang-Hui He: _The AI Mathematician_
-  * 10:45-11:45 Shinichi Mochizuki: _On the Formalization of IUT: a preliminary progress report_
+  * 10:45-11:45 Shinichi Mochizuki: [_On the Formalization of IUT: a preliminary progress report_](./slides/Mochizuki.pdf)
   * 12:00-13:00 Discussion session
 * April 10th 2026
   * 15:00-16:00 Patrick Massot: _Teaching mathematics using Verbose Lean_
