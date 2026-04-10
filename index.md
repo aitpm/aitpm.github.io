@@ -43,7 +43,7 @@ The schedule (all times are BST, i.e., Europe/London) of the workshop is:
   * 12:00-13:00 Discussion session
 * April 10th 2026
   * 15:00-16:00 Patrick Massot: _Teaching mathematics using Verbose Lean_
-  * 16:15-17:15 Leonardo De Moura: _Lean: How AI and Proof Automation Are Changing Mathematics_
+  * 16:15-17:15 Leonardo De Moura: [_Lean: How AI and Proof Automation Are Changing Mathematics_](https://leodemoura.github.io/static/aitpm2026/)
   * 17:45-18:45 Natarajan Shankar [_Beyond QED: AI, Theorem Proving, and the Quest for Beautiful Proofs_](./slides/Shankar.pdf)
   * 19:00-20:00 Discussion/panel session and closure
 
