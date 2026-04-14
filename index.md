@@ -9,11 +9,13 @@ This meeting will explore with leading experts some of the recent developments r
 
 - Attendance is **free**.
 - Venue: Online 
-- Date:  8. - 10. April 2026
+- Date:  8 - 10 April 2026
 - Registration: <!--- [Online Form](https://forms.office.com/e/c7gth3Rb6Q) -->
-  Information how to access the online platforms have been emailed to all registered participants. If you did not receive or still want to register, please contact the organisers via email (e.g.,  `a.brucker AT exeter.ac.uk`)
+  Information how to access the online platforms have been emailed to all registered participants.
 
-Given consent by speakers, talks will be recorded and made public after the workshop. We do not plan to record the panel session, which are planned to be highly interactive. 
+## Recordings
+
+A [video playlist](https://www.youtube.com/playlist?list=PL1Z5Z34WXMIE1B1BOVdn-2FnIoSXLBTJQ) of the workshop is available on YouTube.
 
 ## Speakers
 
